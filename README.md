@@ -1,1 +1,1 @@
-Clone this repo start building the extension 
+# Clone this repo and start building the extension 
